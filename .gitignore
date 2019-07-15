@@ -1,0 +1,6 @@
+TFLearn/build/*
+TFLearn/dist/*
+TFLearn/model_1_atul.tflearn.data-00000-of-00001
+TFLearn/model_1_atul.tflearn.index
+TFLearn/model_1_atul.tflearn.meta
+main.spec
